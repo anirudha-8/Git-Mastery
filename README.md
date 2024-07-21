@@ -1,5 +1,7 @@
 # Git and GitHub Cheat Sheet
 
+![Git & GitHub](image.png)
+
 ## Git Basics
 
 ### Configuration
